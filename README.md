@@ -76,7 +76,7 @@ The analysis evaluates five nonlinear polynomial regression models:
 
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/tekrajbhatta/7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science](https://github.com/tekrajbhatta/ccpp-statistical-modeling/).git
+git clone https://github.com/tekrajbhatta/ccpp-statistical-modeling/.git
 cd ccpp-statistical-modeling
 ```
 
