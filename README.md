@@ -1,5 +1,4 @@
-# 7089 CEM: Introduction to Statistical Methods for Data Science  
-## Modeling Power Plant Energy Output Using Nonlinear Regression  
+# Modeling Power Plant Energy Output Using Nonlinear Regression and Approximate Bayesian Computation (ABC)
 
 ## 📊 Project Overview  
 This project implements statistical modeling techniques to predict electrical energy output from a Combined Cycle Power Plant (CCPP) using environmental variables. The analysis employs nonlinear regression models and Approximate Bayesian Computation (ABC) to identify the optimal relationship between environmental conditions and power plant performance.
@@ -77,8 +76,8 @@ The analysis evaluates five nonlinear polynomial regression models:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/tekrajbhatta/7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science.git
-cd 7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science
+git clone [https://github.com/tekrajbhatta/7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science](https://github.com/tekrajbhatta/ccpp-statistical-modeling/).git
+cd ccpp-statistical-modeling
 ```
 
 ### 2. Place dataset:
